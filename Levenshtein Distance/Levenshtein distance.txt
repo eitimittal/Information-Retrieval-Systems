@@ -1,0 +1,4 @@
+1. Implement the Levenshtein distance in python.
+2. Create a vocabulary of a minimum of 100 words.
+3. Take any sample word as input.
+4. The code should calculate the edit distance from every word in vocabulary and display only those words as output havin levenshtein distance of  less tahn or equal to 2.

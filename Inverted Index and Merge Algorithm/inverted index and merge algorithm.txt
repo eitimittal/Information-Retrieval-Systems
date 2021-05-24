@@ -1,0 +1,4 @@
+1. Write a program to implement the Inverted index information retrieval model.
+2. Take the example given in lecture slides for document input and query.
+3. Output should be the document number and the resultant document.
+4. Make use of the merge algorithm given in the slides

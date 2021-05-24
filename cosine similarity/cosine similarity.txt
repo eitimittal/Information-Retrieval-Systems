@@ -1,0 +1,3 @@
+1. Implement the Cosine similarity based Vector method of Document ranking.
+2. For reference take the example from the lecture slides and check the output to be same.
+3.The output should be the order of documents and their ranks value.

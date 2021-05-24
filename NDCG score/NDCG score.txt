@@ -1,0 +1,9 @@
+Consider the case of 10 documents judged on a scale of 0 to 5 by 4 information retrieval systems. The retrieval order of the documents is specified below:
+IR.1 : 5,4,2,0,1,2,4,5,2,0
+IR.2 : 4,5,5,4,2,0,1,2,0,2
+IR.3:  5,5,4,4,2,1,2,2,0,0
+IR.4:  0,0,2,1,2,2,4,5,2,4
+
+
+Write a python script to identify the best Information retrieval system on the basis of the NDCG score.
+Create a generalized function to rank the docements on different level of grading of relevance.
